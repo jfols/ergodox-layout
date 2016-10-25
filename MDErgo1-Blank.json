@@ -392,12 +392,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
-                },
-                "1": {
-                    "key": "LCK1",
-                    "label": "LOCK-1"
+                    "key": "DELETE",
+                    "label": "DEL"
                 }
             }
         },
@@ -549,8 +545,12 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "DELETE",
-                    "label": "DEL"
+                    "key": "FUN1",
+                    "label": "\u01921"
+                },
+                "1": {
+                    "key": "LCK1",
+                    "label": "LOCK-1"
                 }
             }
         },
@@ -562,8 +562,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "SPACE",
-                    "label": "[&nbsp;]"
+                    "key": "ENTER",
+                    "label": "\u21b5"
                 }
             }
         },
@@ -1030,12 +1030,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
-                },
-                "1": {
-                    "key": "LCK1",
-                    "label": "LOCK-1"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 }
             }
         },
@@ -1163,8 +1159,12 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
+                    "key": "FUN1",
+                    "label": "\u01921"
+                },
+                "1": {
+                    "key": "LCK1",
+                    "label": "LOCK-1"
                 }
             }
         },
@@ -1176,8 +1176,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "ENTER",
-                    "label": "\u21b5"
+                    "key": "SPACE",
+                    "label": "[&nbsp;]"
                 }
             }
         },
