@@ -80,7 +80,7 @@ U"ENTER" : U"FUN1";
 U"SPACE" : U"SPACE";
 U"LEFT" : U"DOWN";
 U"DOWN" : U"UP";
-U"UP" : U"RALT";
-U"RIGHT" : U"RGUI";
+U"UP" : U"RGUI";
+U"RIGHT" : U"RALT";
 U"RGUI" : U"FUN2";
 
