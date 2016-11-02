@@ -358,8 +358,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "DOWN",
-                    "label": "\u2193"
+                    "key": "RIGHT",
+                    "label": "\u2192"
                 }
             }
         },
@@ -972,8 +972,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "UP",
-                    "label": "\u2191"
+                    "key": "DOWN",
+                    "label": "\u2193"
                 }
             }
         },
@@ -985,8 +985,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RIGHT",
-                    "label": "\u2192"
+                    "key": "UP",
+                    "label": "\u2191"
                 }
             }
         },

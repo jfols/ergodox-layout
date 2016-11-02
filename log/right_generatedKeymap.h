@@ -155,7 +155,7 @@ Guide_RM( 5 ) = { 1, 15, KEY_F, 0 };
 Guide_RM( 6 ) = { 2, 6, 6, 0, 1, 0 };
 Guide_RM( 7 ) = { 1, 15, KEY_TAB, 0 };
 Guide_RM( 8 ) = { 1, 8, 233, 0, 0 };
-Guide_RM( 9 ) = { 1, 15, KEY_UP, 0 };
+Guide_RM( 9 ) = { 1, 15, KEY_DOWN, 0 };
 Guide_RM( 10 ) = { 1, 15, KEY_D, 0 };
 Guide_RM( 11 ) = { 2, 6, 1, 0, 1, 0 };
 Guide_RM( 12 ) = { 1, 8, 182, 0, 0 };
@@ -202,9 +202,9 @@ Guide_RM( 52 ) = { 1, 15, KEY_5, 0 };
 Guide_RM( 53 ) = { 1, 15, KEY_U, 0 };
 Guide_RM( 54 ) = { 1, 15, KEY_1, 0 };
 Guide_RM( 55 ) = { 1, 15, KEY_M, 0 };
-Guide_RM( 56 ) = { 1, 15, KEY_DOWN, 0 };
+Guide_RM( 56 ) = { 1, 15, KEY_RIGHT, 0 };
 Guide_RM( 57 ) = { 1, 15, KEY_EQUAL, 0 };
-Guide_RM( 58 ) = { 1, 15, KEY_RIGHT, 0 };
+Guide_RM( 58 ) = { 1, 15, KEY_UP, 0 };
 Guide_RM( 59 ) = { 1, 15, KEY_S, 0 };
 Guide_RM( 60 ) = { 1, 15, KEY_COMMA, 0 };
 Guide_RM( 61 ) = { 1, 15, KEY_7, 0 };
@@ -631,7 +631,7 @@ const TriggerMacro TriggerMacroList[] = {
 	Define_TM( 87, 80 ),
 	Define_TM( 88, 81 ),
 	Define_TM( 89, 19 ),
-	Define_TM( 90, 9 ),
+	Define_TM( 90, 58 ),
 	Define_TM( 91, 82 ),
 	Define_TM( 92, 83 ),
 	Define_TM( 93, 84 ),
@@ -641,10 +641,10 @@ const TriggerMacro TriggerMacroList[] = {
 	Define_TM( 97, 88 ),
 	Define_TM( 98, 89 ),
 	Define_TM( 99, 90 ),
-	Define_TM( 100, 56 ),
+	Define_TM( 100, 9 ),
 	Define_TM( 101, 91 ),
 	Define_TM( 102, 62 ),
-	Define_TM( 103, 58 ),
+	Define_TM( 103, 56 ),
 	Define_TM( 104, 92 ),
 	Define_TM( 105, 93 ),
 	Define_TM( 106, 94 ),
@@ -654,9 +654,9 @@ const TriggerMacro TriggerMacroList[] = {
 	Define_TM( 110, 96 ),
 	Define_TM( 111, 97 ),
 	Define_TM( 112, 62 ),
-	Define_TM( 113, 58 ),
+	Define_TM( 113, 56 ),
 	Define_TM( 114, 98 ),
-	Define_TM( 115, 9 ),
+	Define_TM( 115, 58 ),
 	Define_TM( 116, 99 ),
 	Define_TM( 117, 100 ),
 	Define_TM( 118, 101 ),
@@ -671,7 +671,7 @@ const TriggerMacro TriggerMacroList[] = {
 	Define_TM( 127, 110 ),
 	Define_TM( 128, 111 ),
 	Define_TM( 129, 111 ),
-	Define_TM( 130, 56 ),
+	Define_TM( 130, 9 ),
 	Define_TM( 131, 112 ),
 	Define_TM( 132, 113 ),
 	Define_TM( 133, 114 ),
