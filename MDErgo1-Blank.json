@@ -384,12 +384,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "DELETE",
-                    "label": "DEL"
-                },
-                "1": {
-                    "key": "LCK1",
-                    "label": "LOCK-1"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 }
             }
         },
@@ -998,12 +994,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
-                },
-                "1": {
-                    "key": "LCK1",
-                    "label": "LOCK-1"
+                    "key": "DELETE",
+                    "label": "DEL"
                 }
             }
         },
